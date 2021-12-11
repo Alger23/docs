@@ -28,6 +28,10 @@
 
 view blog: [An example of using Relay in Redwood](https://reactjsexample.com/an-example-of-using-relay-in-redwood/)
 
+---
+### GraphQL API and Relay Starter Kit
+
+[view Github](https://github.com/kriasoft/relay-starter-kit)
 
 ---
 ### Relay Examples
